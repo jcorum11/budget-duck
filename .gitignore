@@ -1,3 +1,9 @@
+.DS_Store
+.vscode
+package-lock.json
+notes.txt
+object-wireframe.png
+
 # Logs
 logs
 *.log
@@ -101,4 +107,4 @@ dist
 .dynamodb/
 
 # TernJS port file
-.tern-port
+.tern-portsendgrid.env
