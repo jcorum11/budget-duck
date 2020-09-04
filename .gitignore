@@ -1,8 +1,6 @@
 .DS_Store
 .vscode
-package-lock.json
 notes.txt
-object-wireframe.png
 
 # Logs
 logs
